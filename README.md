@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://caliph.my.id"><img align="center" src="https://github-cardname.caliph.my.id/api?name=Danu57P&description=Hi%2C%20I'm%20a%20Novice%20Programmer%2C%20Nice%20to%20meet%20you&image=https://avatars.githubusercontent.com/sadakodev2002&usqp=CAU&backgroundColor=%23ecf0f1&&github=sadakodev2002&pattern=ticTacToe&colorPattern=%23eaeaea&site=WATASHI%2C%WIBU%20INDONESIA"/></a>
+<a href=""><img align="center" src="https://github-cardname.caliph.my.id/api?name=Danu57P&description=Hi%2C%20I'm%20a%20Novice%20Programmer%2C%20Nice%20to%20meet%20you&image=https://avatars.githubusercontent.com/sadakodev2002&usqp=CAU&backgroundColor=%23ecf0f1&&github=sadakodev2002&pattern=ticTacToe&colorPattern=%23eaeaea&site=WATASHI%2C%WIBU%20INDONESIA"/></a>
 </p>
  
 <h3 align="left">Visitor</h3>
@@ -9,7 +9,7 @@
 
 <h3 align="left">Contact with me:</h3>
 <p align="left"><a href="https://instagram.com/caliph.dev" target="blank"><img align="center" src="https://storage.caliph.my.id/img/instagram.svg" height="30" width="30" /></a>
-<p align="left"><a href="//youtube.com/@caliphdev"><img src="https://storage.caliph.my.id/img/youtube.svg" height="30" width="30" /></a>
+<p align="left"><a href="//youtube.com/@caliphdev"><img src="https://storage.caliph.my.id/img/tiktok.svg" height="30" width="30" /></a>
 <p align="left"><a href="//t.me/caliphdev"><img src="https://storage.caliph.my.id/img/telegram.png" height="30" width="30" /></a>
 </p>
 
