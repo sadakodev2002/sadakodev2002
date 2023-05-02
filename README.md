@@ -1,5 +1,5 @@
 <p align="center">
-<a href=""><img align="center" src="https://github-cardname.caliph.my.id/api?name=Danu57P&description=Hi%2C%20I'm%20a%20Novice%20Programmer%2C%20Nice%20to%20meet%20you&image=https://avatars.githubusercontent.com/sadakodev2002&usqp=CAU&backgroundColor=%808080&&github=sadakodev2002&pattern=ticTacToe&colorPattern=%23eaeaea&site=WATASHI%2C%WIBU%20INDONESIA"/></a>
+<a href=""><img align="center" src="https://github-cardname.caliph.my.id/api?name=Danu57P&description=Hi%2C%20I'm%20a%20Novice%20Programmer%2C%20Nice%20to%20meet%20you&image=https://avatars.githubusercontent.com/sadakodev2002&usqp=CAU&backgroundColor=%23ecf0f1&github=sadakodev2002&pattern=ticTacToe&colorPattern=%23eaeaea&site=WATASHI%2C%WIBU%20INDONESIA"/></a>
 </p>
 
 ## Social Media
